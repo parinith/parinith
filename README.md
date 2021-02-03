@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently Studing at SJBIT...
-- 🌱 I’m currently learning Data analysis and EDA
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning Data analysis ,EDA  and Digital marketing and strategy.
+- 🤔 I’m looking for a job where I can innovate things and work on things that can change the our lifes.
 - 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/parinith-s-kumar-5b3a40186/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="f12r" height="30" width="30" /></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parinith&show_icons=true&theme=radical)
