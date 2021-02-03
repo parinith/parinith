@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently Studing at SJBIT...
+- 🌱 I’m currently learning Data analysis and EDA
+- 🤔 I’m looking for help with ...
+- 📫 How to reach me: 
+<a href="https://www.linkedin.com/in/parinith-s-kumar-5b3a40186/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="f12r" height="30" width="30" /></a>
+
+
+
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 <!--
 **parinith/parinith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
