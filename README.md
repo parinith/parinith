@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently Studing at SJBIT...
-- 🌱 I’m currently learning Data analysis ,EDA  and Digital marketing and strategy.
-- 🤔 I’m looking for a job where I can innovate things and work on things that can change the our lifes.
+- 🌱 I’m currently learning Data analysis , EDA, Business Stratergy, Machine Learning Data Engineering and Digital marketing .
+- 🤔 I’m looking for a job where I can innovate things and work on that making stratergic Decisions.
 - 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/parinith-s-kumar-5b3a40186/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="f12r" height="30" width="30" /></a>
 
