@@ -26,3 +26,4 @@ ________
 ![GitHub license](https://img.shields.io/static/v1?label&message=TensorFlow&color=orange)
 ![GitHub license](https://img.shields.io/static/v1?label&message=GoogleColab&color=brightgreen)
 ![GitHub license](https://img.shields.io/static/v1?label&message=Jupyter&color=yellow)
+![GitHub license](https://img.shields.io/static/v1?label&message=postgresql&color=blue)
