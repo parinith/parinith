@@ -2,26 +2,27 @@
 
 - 🔭 I’m currently working as a business strategy analyst at RedCarpetUp...
 - 🌱 I’m currently wokring on Data analysis , EDA, Business Stratergy, Machine Learning and Data Engineering.
-- ✨ Love to work on the customer segments understanding there needs and help the business grow with proper strategies.
+- ✨ Love to work on the business growth with proper strategies.
 - 🤔 I’m looking for a job where I can innovate things and work on that making stratergic Decisions.
-- 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/parinith-s-kumar-5b3a40186/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="f12r" height="30" width="30" /></a>
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parinith&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parinith)](https://github.com/parinith/github-readme-stats)<p align="left"></p>
 
-**parinith/parinith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/parinith-s-kumar-5b3a40186/)
+[![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/parinith?tab=followers)
+________
+##### Skills:
+![GitHub license](https://img.shields.io/static/v1?label&message=Data_Analytics&color=red)
+![GitHub license](https://img.shields.io/static/v1?label&message=Machine_learning_Expert&color=brightgreen)
+![GitHub license](https://img.shields.io/static/v1?label&message=Data_Science&color=yellow)
+![GitHub license](https://img.shields.io/static/v1?label&message=Deep_learning&color=orange)
+![GitHub license](https://img.shields.io/static/v1?label&message=Python&color=blue)
+![GitHub license](https://img.shields.io/static/v1?label&message=Compute_Vision&color=blueviolet)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Technologies:
+![GitHub license](https://img.shields.io/static/v1?label&message=PyTorch&color=red)
+![GitHub license](https://img.shields.io/static/v1?label&message=TensorFlow&color=orange)
+![GitHub license](https://img.shields.io/static/v1?label&message=GoogleColab&color=brightgreen)
+![GitHub license](https://img.shields.io/static/v1?label&message=Jupyter&color=yellow)
