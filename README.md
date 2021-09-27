@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a business strategy analyst at RedCarpetUp...
+- 🔭 I’m currently working as a business strategy analyst at RedCarpetUp(I underwrite people looking at the risk)...
 - 🌱 I’m currently wokring on Data analysis , EDA, Business Stratergy, Machine Learning and Data Engineering.
 - ✨ Love to work on the business growth with proper strategies.
 - 🤔 I’m looking for a job where I can innovate things and work on that making stratergic Decisions.
